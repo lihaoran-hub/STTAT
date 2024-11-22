@@ -1,4 +1,4 @@
-Spatio-Temporal Graph Convolutional Networks
+Spatio-temporal Tree Attention Network for Forecasting Traffic Flow
 ============
 
 - Paper link: [arXiv](https://arxiv.org/pdf/1709.04875v4.pdf)
